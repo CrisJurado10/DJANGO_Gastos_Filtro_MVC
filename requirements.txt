@@ -1,0 +1,6 @@
+Django>=4.2,<5.0                   # Django core framework
+mysqlclient>=2.1.1                 # For MySQL database connectivity (highly recommended)
+django-crispy-forms>=1.14          # For better form rendering
+crispy-bootstrap5>=0.7             # Bootstrap 5 support for crispy forms
+pytz                               # Timezone support (Django dependency)
+sqlparse                           # SQL parsing (Django dependency)
